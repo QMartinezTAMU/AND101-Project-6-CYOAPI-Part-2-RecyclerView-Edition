@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="p6_app_name">Project 6 Pokémon List</string>
+    <string name="p6_title">Pokémon Explorer</string>
+    <string name="p6_subtitle">Scroll through the original 151 Pokémon. Data from PokéAPI.</string>
+    <string name="p6_starting">Preparing the list…</string>
+    <string name="p6_loading">Loaded %1$d of %2$d Pokémon. Downloading more…</string>
+    <string name="p6_complete">Loaded %1$d Pokémon. Scroll to explore.</string>
+    <string name="p6_error">Loaded %1$d Pokémon. Could not load #%2$d. Check your connection and tap Retry.</string>
+    <string name="p6_retry">Retry</string>
+    <string name="p6_id_format">Pokémon #%1$d</string>
+    <string name="p6_height_format">Height: %1$.1f m</string>
+    <string name="p6_weight_format">Weight: %1$.1f kg</string>
+</resources>
